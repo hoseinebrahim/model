@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Open SSTP Client</string>
+    <string name="traffic_title">Traffic</string>
+    <string name="traffic_download">\u2193 DOWNLOAD</string>
+    <string name="traffic_upload">\u2191 UPLOAD</string>
+    <string name="traffic_total">Total: %1$s</string>
+    <string name="traffic_range_1m">1 min</string>
+    <string name="traffic_range_5m">5 min</string>
+    <string name="traffic_range_30m">30 min</string>
+    <string name="traffic_idle">Not connected. The graph starts when the tunnel is established.</string>
+</resources>
