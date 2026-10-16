@@ -15,4 +15,4 @@ jobs:
         continue-on-error: true
         run: yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses > /dev/null || true
       - run: chmod +x gradlew
-      - run: ./gradlew assembleDebug --stac
+      - run: ./gradlew assembleDebug --stacktrace
